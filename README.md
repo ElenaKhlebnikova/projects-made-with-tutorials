@@ -30,7 +30,7 @@ https://visionary-florentine-7ca0e3.netlify.app
 
 ### Forkify 
 A big project in which you can see different recipies and add your own meal:
-https://visionary-florentine-7ca0e3.netlify.app
+https://calm-lamington-6336e1.netlify.app
 
 
 ### Form 
